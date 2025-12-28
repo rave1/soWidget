@@ -1,0 +1,11 @@
+[project]
+name = "sowidget"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "pywin32>=311",
+    "requests>=2.32.5",
+    "textual>=6.11.0",
+]
