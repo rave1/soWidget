@@ -4,6 +4,8 @@ Weather widget for windows os using tkinter.
 
 It gets the data from [soHUB](https://github.com/rave1/soHUB)
 
+![alt text](image.png)
+
 ### Method 1: Startup Folder (Easiest & Recommended)
 This works on Windows 10 and 11 (including 2025 builds).
 
